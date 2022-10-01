@@ -1,0 +1,13 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# 2021 sapwning event 16S data analysis
+
+Samples collected before, during and post spawning period. ~800 mL filtered through sterivex, frozen in -80ºC. 
+
+```{r}
+
+```
+
